@@ -1,0 +1,27 @@
+
+.clock-holder{
+    margin: 0;
+    padding: 20px;
+    height: 200px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(53, 53, 51);
+    border: groove 4px rgb(197, 191, 191);
+}
+.stopwatch{
+    width: 95%;
+    margin: 0;
+    text-align: center;
+    background-color: rgb(240, 243, 243);
+    border-radius: 5px;
+    border: groove 4px rgb(153, 147, 147);
+    padding: 5px;
+    font:bold;
+    font-size: 50px;
+
+}
+.control{
+    /* padding: 10px; */
+    margin: 20%;
+    align-items: center;
+}
